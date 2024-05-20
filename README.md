@@ -37,3 +37,15 @@ c언어로 만든 친구가 없어도 컴퓨터와 1대1 대결이 가능한 틱
 일단 반드시 플레이어를 막도록 만들었기 때문임.
 
 그러다가 자신이 이길 수 있는 기회가 있으면 반드시 이기도록 했다.
+
+---
+
+다시보니 겨우 이런걸 유튜브 영상으로도 남겨 놓은게 있었다.
+
+[영상 링크](https://youtu.be/Gg1Gfyf7QxQ?si=LTpFtGg6Qb7LbNBS)
+
+(공개 영상이 아니기 때문에 해당 링크로만 볼 수 있음)
+
+영상 자막을 보니 이기는게 가능하다고는 함.
+
+[![image](https://github.com/jsj3318/tic-tac-toe/assets/168888761/48e0e0ca-c15c-4ace-a21c-4bed25886bbc)](https://youtu.be/Gg1Gfyf7QxQ?si=d6PPJjfPlYy_3_-6)
